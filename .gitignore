@@ -1,0 +1,24 @@
+## General
+*.log
+*.bak
+.tmp
+
+## Apple
+*.DS_Store
+
+## Maven
+target/
+
+## IntelliJ
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+out/
+
+## Eclipse
+.settings
+.classpath
+.project
+build/
